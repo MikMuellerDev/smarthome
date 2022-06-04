@@ -1,5 +1,7 @@
 # Smarthome
+# This repository has been transferred to the [Smarthome](https://github.com/smarthome-go/smarthome) organization.
 **Version**: `0.0.26-beta-rc.4`
+
 
 A completely self-built Smarthome-system written in Go.
 
